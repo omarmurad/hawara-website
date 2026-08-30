@@ -46,7 +46,7 @@ const I18N = {
     welcome_name: "Mr. Salah Alddin Al Hawari",
     welcome_role: "General Manager",
     welcome_bio1: "Salah Al Ddin holds a bachelor's degree in Management Information System and has 20 years of experience in working with his family contracting business.",
-    welcome_bio2: "Salah Elddin's vast experience, which was gained from different projects and hands-on approaches have made He is a well-known and respected player in contracting business.",
+    welcome_bio2: "Salah Elddin's last experience, which was gained from different projects and hands-on approaches have made He is a well-known and respected player in contracting business.",
     welcome_bio3: "Salah Elddin continuous to play a leadership role in the daily operations and management of the company. Salah Elddin believes in \u201CQuality of Services\u201D which he never Compromise and believe this was, is, and will be the secrets of his leadership role Hawari Advanced contracting company.",
 
     services_eyebrow: "What We Do",
